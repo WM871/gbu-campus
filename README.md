@@ -17,6 +17,18 @@ Night audio shuts down completely on victory, defeat, quit or exit. Pause, mute 
 
 ## Run locally
 
+### First-time setup from GitHub
+
+If you have not downloaded the project yet, clone the source repository and enter its directory:
+
+```sh
+git clone https://github.com/greenquark/gbu-campus.git
+cd gbu-campus
+node --version
+```
+
+Make sure Node.js is version 22.12 or newer. Then follow the installation and startup commands below.
+
 For a fresh checkout, install Node 22.12 or newer, open a terminal in the repository root, then run:
 
 ```sh
